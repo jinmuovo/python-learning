@@ -103,25 +103,6 @@ Python实用教程包括：Python基础，Python高级特性，面向对象编�
 
 
 
-# Cite
-
-如果你在研究中使用了python-tutorial，请按如下格式引用：
-
-```latex
-@software{python-tutorial,
-  author = {Xu Ming},
-  title = {python-tutorial: Python3 Tutorial for Beginners},
-  year = {2021},
-  url = {https://github.com/shibing624/python-tutorial},
-}
-```
-
-# License
-
-
-授权协议为 [The Apache License 2.0](/LICENSE)，可免费用做商业用途。请在产品说明中附加python-tutorial的链接和授权协议。
-
-
 # Contribute
 项目代码还很粗糙，如果大家对代码有所改进，欢迎提交回本项目，在提交之前，注意以下两点：
 
