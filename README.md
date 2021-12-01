@@ -1,4 +1,4 @@
-# python-tutorial
+# python-learning
 
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub contributors](https://img.shields.io/github/contributors/shibing624/python-tutorial.svg)](https://github.com/shibing624/python-tutorial/graphs/contributors)
@@ -8,7 +8,7 @@
 [![Wechat Group](http://vlog.sfyc.ltd/wechat_everyday/wxgroup_logo.png?imageView2/0/w/60/h/20)](#Contact)
 
 
-Python实用教程，包括：Python基础，Python高级特性，面向对象编程，多线程，数据库，数据科学，Flask，爬虫开发教程。
+Python实用教程包括：Python基础，Python高级特性，面向对象编程，多线程，数据库，数据科学，Flask，爬虫开发教程。
 
 
 
@@ -25,7 +25,7 @@ Python实用教程，包括：Python基础，Python高级特性，面向对象�
 - [Reference](#reference)
 
 
-# python-tutorial的例子清单
+# python-learning的例子清单
 - 目录说明
 
 | **目录**  | **主题**            | 简要说明                              |
